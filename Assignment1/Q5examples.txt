@@ -1,0 +1,23 @@
+Example 1:
+
+plaintext = i am here now.
+
+ciphertext = i uz zwgd jqf.
+
+Example 2:
+
+plaintext = this is a test.
+
+ciphertext = tmny zk d pmxj.
+
+Example 3:
+
+plaintext = check out my l33t skillz.
+
+ciphertext = cvsnq xkw bs w33i twxbfx.
+
+Example 4:
+
+plaintext = "i could have become a mass murderer after i hacked my governor module, but then i realized i could access the combined feed of entertainment channels carried on the company satellites. it had been well over 35000 hours or so since then, with still not much murdering, but probably, i don't know, a little under 35000 hours of movies, serials, books, plays, and music consumed. as a heartless killing machine, i was a terrible failure." --murderbot
+
+"i wdquq qjxu olgnsp i ngrc hueaxheo hfroy z zsnqnj of elzwgmtd iplycz, tgs eebh i spimnfcy z uboso hcxufq ccz ubgabhea yvso vt qwifpbuvbgdjv qqjpvswh cvfpqnj qw iif ahmuntk voaxbfgspa. bn ngc wtqw limq xlis 35000 szmwh oy jq bcida mmjp, efrr coptx dkw bojj oblheopvu, obn vfmgztxo, p lsy'k ntap, i mnzlpm zfbyi 35000 ipcmx ec hocdal, wtdexbm, gnuxi, qunep, iok pcnoj elrcpurn. gr k khakwaxit wxbfgml qjeefli, j yrc v heoyztxu slmqdnk." --pcmifpjqc

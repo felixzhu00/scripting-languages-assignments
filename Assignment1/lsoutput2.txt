@@ -1,0 +1,44 @@
+.:
+total 0
+-rwxrwxrwx 1 christopher christopher   0 Mar  7 13:50 d1.txt
+-rwxrwxrwx 1 christopher christopher   0 Mar  7 13:50 d2.txt
+-rwxrwxrwx 1 christopher christopher   0 Mar  7 13:50 d3.txt
+-rwxrwxrwx 1 christopher christopher   0 Mar  7 13:55 lsoutput2.txt
+drwxrwxrwx 1 christopher christopher 512 Mar  7 13:51 nortz
+drwxrwxrwx 1 christopher christopher 512 Mar  7 13:52 slurm
+
+./nortz:
+total 0
+-rwxrwxrwx 1 christopher christopher 0 Mar  7 13:51 d4.txt
+-rwxrwxrwx 1 christopher christopher 0 Mar  7 13:51 d5.txt
+-rwxrwxrwx 1 christopher christopher 0 Mar  7 13:51 d6.txt
+-rwxrwxrwx 1 christopher christopher 0 Mar  7 13:51 d7.txt
+-rwxrwxrwx 1 christopher christopher 0 Mar  7 13:51 d8.txt
+-rwxrwxrwx 1 christopher christopher 0 Mar  7 13:51 d9.txt
+
+./slurm:
+total 0
+-rwxrwxrwx 1 christopher christopher   0 Mar  7 13:51 d10.txt
+-rwxrwxrwx 1 christopher christopher   0 Mar  7 13:51 d11.txt
+drwxrwxrwx 1 christopher christopher 512 Mar  7 13:52 loco
+
+./slurm/loco:
+total 0
+drwxrwxrwx 1 christopher christopher 512 Mar  7 13:53 florp
+
+./slurm/loco/florp:
+total 0
+drwxrwxrwx 1 christopher christopher 512 Mar  7 13:54 bundt
+-rwxrwxrwx 1 christopher christopher   0 Mar  7 13:53 d12.txt
+
+./slurm/loco/florp/bundt:
+total 0
+-rwxrwxrwx 1 christopher christopher   0 Mar  7 13:53 d13.txt
+drwxrwxrwx 1 christopher christopher 512 Mar  7 13:54 gorgak
+
+./slurm/loco/florp/bundt/gorgak:
+total 0
+-rwxrwxrwx 1 christopher christopher 0 Mar  7 13:54 d14.txt
+-rwxrwxrwx 1 christopher christopher 0 Mar  7 13:54 d15.txt
+-rwxrwxrwx 1 christopher christopher 0 Mar  7 13:54 d16.txt
+-rwxrwxrwx 1 christopher christopher 0 Mar  7 13:54 d17.txt
